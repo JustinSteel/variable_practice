@@ -7,5 +7,14 @@ prefered_number_of_breakfasts = 2
 shoe_size = 10.5
 pi = 3.14
 
-likes_dogs = true
-likes_asparagus = false 
+likes_dogs = false
+likes_asparagus = true
+
+name = "Justin" if likes_dogs = true
+name = "Francisco" if likes_asparagus = true
+email = "francisco@yahoo.com" if likes_dogs = false
+
+puts name
+puts email
+puts 5 + 3
+puts "Hello" + name + "!"
