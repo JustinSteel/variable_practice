@@ -6,3 +6,6 @@ prefered_number_of_breakfasts = 2
 
 shoe_size = 10.5
 pi = 3.14
+
+likes_dogs = true
+likes_asparagus = false 
